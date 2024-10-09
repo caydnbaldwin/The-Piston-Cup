@@ -8,6 +8,6 @@ Sub `Start` initiates the race. A random number is generated between 1 and 3. Th
 This program is an example of a short video game to watch.
 
 ## Download and Run
-(1) Download [The-Piston-Cup.xlsm](https://github.com/caydnbaldwin/The-Piston-Cup/blob/main/The-Piston-Cup.xlsm)
-(2) Enable macros
-(3) Click the `Start` button
+1) Download [The-Piston-Cup.xlsm](https://github.com/caydnbaldwin/The-Piston-Cup/blob/main/The-Piston-Cup.xlsm)
+2) Enable macros
+3) Click the `Start` button
