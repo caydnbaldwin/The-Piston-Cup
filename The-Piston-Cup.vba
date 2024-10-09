@@ -1,6 +1,6 @@
 Option Explicit
 
-Sub Start()
+Sub Kachow()
 
 ' assign variables
 Dim lane_1 As Integer
